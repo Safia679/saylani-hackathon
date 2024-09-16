@@ -1,0 +1,91 @@
+.btn-mine{
+    border-radius: 5px;
+    margin-right: 90px;
+    padding: 10px;
+}
+.navbar{
+    margin-left: 50px;
+}
+.navbar-brand-tt{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.too{
+margin-top: 70px;
+width: 531px;
+height: 231px;
+gap: 0px;
+opacity: 0px;
+
+}
+.free{
+    position: absolute;
+    left: 500px;
+    bottom: 50px;
+    width: Fixed (1,440px)px;
+height: Hug (515px)px;
+padding: 0px 100px 0px 100px;
+gap: 0px;
+justify-content: space-between;
+opacity: 0px;
+
+}
+.yu{
+    width: Hug (264px)px;
+height: Hug (68px)px;
+padding: 20px 35px 20px 35px;
+gap: 10px;
+border-radius: 14px 0px 0px 0px;
+opacity: 0px;
+
+}
+.company{
+    
+    width:  (1,440px)px;
+height: Hug (48px)px;
+padding: 0px 100px 0px 100px;
+
+justify-content: space-between;
+
+
+opacity: 0px;
+
+}
+.form{
+   margin-top: 100px;
+    width: Hug (556px)px;
+    height: Hug (633px)px;
+    gap: 40px;
+    opacity: 0px;
+    
+}
+.illus{
+    width: 178.69px;
+height: 178.69px;
+top: 224.21px;
+left: 1145.42px;
+gap: 0px;
+opacity: 0px;
+angle: -45 deg;
+
+}
+.footer{
+    width: Hug (1,241px)px;
+height: Hug (514px)px;
+padding: 55px 60px 50px 60px;
+gap: 50px;
+border-radius: 45px 45px 0px 0px;
+opacity: 0px;
+color: black;
+}
+@media all and (max-width:900px)  {
+      .navbar{
+        justify-content: space-around;
+    }
+    .navbar-brand-tt{
+        display: none;
+    }
+
+    
+}
